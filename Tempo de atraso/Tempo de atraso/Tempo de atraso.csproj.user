@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="splashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tabelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,23 @@
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\bin\Release\net5.0-windows\Tempo de atraso.exe
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\bin\Release\net5.0-windows\Tempo de atraso.deps.json
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\bin\Release\net5.0-windows\Tempo de atraso.runtimeconfig.json
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\bin\Release\net5.0-windows\Tempo de atraso.runtimeconfig.dev.json
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\bin\Release\net5.0-windows\Tempo de atraso.dll
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\bin\Release\net5.0-windows\ref\Tempo de atraso.dll
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\bin\Release\net5.0-windows\Tempo de atraso.pdb
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo de atraso.csproj.AssemblyReference.cache
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo de atraso.csproj.ResolveComReference.cache
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo_de_atraso.Principal.resources
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo_de_atraso.Properties.Resources.resources
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo_de_atraso.splashScreen.resources
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo_de_atraso.Tabelas.resources
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo de atraso.csproj.GenerateResource.cache
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo de atraso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo de atraso.AssemblyInfoInputs.cache
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo de atraso.AssemblyInfo.cs
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo de atraso.csproj.CoreCompileInputs.cache
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo de atraso.dll
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\ref\Tempo de atraso.dll
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo de atraso.pdb
+C:\Users\esvit\source\repos\Tempo de atraso\Tempo de atraso\obj\Release\net5.0-windows\Tempo de atraso.genruntimeconfig.cache

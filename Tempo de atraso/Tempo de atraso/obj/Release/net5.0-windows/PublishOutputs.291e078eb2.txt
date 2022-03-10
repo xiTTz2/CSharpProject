@@ -1,0 +1,5 @@
+C:\Users\esvit\Documents\C#\Tempo de atraso.exe
+C:\Users\esvit\Documents\C#\Tempo de atraso.dll
+C:\Users\esvit\Documents\C#\Tempo de atraso.deps.json
+C:\Users\esvit\Documents\C#\Tempo de atraso.runtimeconfig.json
+C:\Users\esvit\Documents\C#\Tempo de atraso.pdb

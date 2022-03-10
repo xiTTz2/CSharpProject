@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tempo de atraso/1.0.0": {
+        "runtime": {
+          "Tempo de atraso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tempo de atraso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
